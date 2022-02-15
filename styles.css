@@ -1,0 +1,27 @@
+.title{
+    width: max-width;
+    height: 75px;
+
+    background-color: magenta;
+    text-align: center;
+    border-radius: 7px;
+    border-style:solid;
+    border-color: gray;
+    border-width: 5px;
+}
+.headings{
+    width: 190px;
+    height: 75px;
+    background-color: rgba(53, 114, 206, 0.61);
+    text-align: left;
+    border-radius: 5px;
+    border-style: solid;
+}
+
+.pictures{
+    width: 200px;
+    height: 200px;
+    border-style: solid;
+    border-color:rgb(0, 0, 0);
+    border-width: 10px;
+}
